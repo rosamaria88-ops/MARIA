@@ -338,15 +338,28 @@ Automação e integração de processos industriais
                                                                                   Aprendizado de Máquina e IA aplicada à manufatura.
 
 
+
+
+ ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rosamaria88-ops&theme=shadow_green&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosamaria88-ops&langs_count=10&layout=compact&theme=shadow_red&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosamaria88-ops&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=shadow_blue)
+
+
+
+
 <img
 src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738"
 width="50" /> **Get in Touch / Ficamos Conectados!**  📫
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/maria-rosenilda-dos-santos-243931302))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-rosenilda-dos-santos-243931302)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosenildadossantosm@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MariaRo69974586?t=c2k63OnihBEfT5g62KqdnA&s=09)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mariarosenilda.santos)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dmariarosenilda/profilecard/?igsh=ejhuanB2MjZ0ZDkw)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rosenildadossantosm@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mariarosenilda.santos)
+
+
 
 
 
@@ -413,7 +426,10 @@ width="50" /> **Get in Touch / Ficamos Conectados!**  📫
     <i><i></i><i></i></i>
     <i><i></i><i></i></i>
     <i><i></i><i></i></i>
-    <div align="right">
+    
+
+    
+  <div align="right">
   <h4>
     <p>
    All Purposes and Rights Reserved, Maria Rosenilda dos Santos ! ®
