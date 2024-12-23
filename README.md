@@ -44,10 +44,7 @@
     <i><i></i><i></i></i>
 
   ![giphy](https://github.com/user-attachments/assets/9b0b0f67-9d82-4573-8d41-7f7398ad7a3a)
-
-
-
-## Sobre Mim: 
+ 
 
 <i><i></i><i></i></i>
     <i><i></i><i></i></i>
@@ -88,7 +85,7 @@
     <i><i></i><i></i></i>
     <i><i></i><i></i></i>
 
-### Sou Maria Rosenilda dos Santos, estudante no setor de usinagem e operação de máquinas CNC (Controle Numérico Computadorizado), com pouco tempo de atuação. Tenho algumas habilidades em programação, setup de máquinas e ajustes para garantir precisão nas peças usinadas. Também estou sempre em busca de otimizar os processos, aumentar a produtividade e reduzir erros.
+## Sou Maria Rosenilda dos Santos, estudante no setor de usinagem e operação de máquinas CNC (Controle Numérico Computadorizado), com pouco tempo de atuação. Tenho algumas habilidades em programação, setup de máquinas e ajustes para garantir precisão nas peças usinadas. Também estou sempre em busca de otimizar os processos, aumentar a produtividade e reduzir erros.
 
 Teoricamente tenho um pouco de conhecimento em plataformas como Siemens, Fanuc e Heidenhain, meu objetivo é combinar a prática da operação com a inovação tecnológica, explorando áreas como automação industrial, Internet das Coisas (IoT) e Machine Learning para otimização de processos.
 
@@ -343,7 +340,7 @@ Automação e integração de processos industriais
 
 <img
 src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738"
-width="50" /> **Get in Touch**  📫
+width="50" /> **Get in Touch / Ficamos Conectados!**  📫
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/maria-rosenilda-dos-santos-243931302))
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MariaRo69974586?t=c2k63OnihBEfT5g62KqdnA&s=09)
