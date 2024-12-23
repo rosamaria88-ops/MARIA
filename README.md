@@ -372,6 +372,7 @@ width="50" /> **Get in Touch / Ficamos Conectados!**  📫
 [![ASK ME ANYTHINGS](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://wa.me/message/DYYBWXMGOAYA1)    
 
 
+![unnamed](https://github.com/user-attachments/assets/25a4d100-7d80-45f6-935b-63ca85cda9a9)
 
 
 <i><i></i><i></i></i>
